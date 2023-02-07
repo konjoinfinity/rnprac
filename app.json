@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnprac",
+    "slug": "rnprac",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnprac"
+}
